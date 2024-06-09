@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as a freelancer as Software Developer and Digital Marketer.
+I am currently working as AI/ML Developer at IceBrKr.
 
 My research interests include Natural Language Processing (NLP) and LLMs.
 
