@@ -16,7 +16,7 @@ main:
     url: https://kickerai.com/
     
   - title: "CV"
-    url: files/prasant_bagale_resume.pdf
+    url: /files/prasant_bagale_resume.pdf
     
   # - title: "Guide"
   #   url: /markdown/
