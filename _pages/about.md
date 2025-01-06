@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently working as AI/ML Developer at IceBrKr.
+I work as AI/ML Engineer.
 
-My research interests include Natural Language Processing (NLP) and LLMs.
+My research interests include Natural Language Processing (NLP) and Large Language Models.
 
 I am interested in contributing to NLP research of Nepali Language.
